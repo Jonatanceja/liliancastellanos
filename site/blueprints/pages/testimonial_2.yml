@@ -1,0 +1,14 @@
+title: Testimonial 2
+fields:
+  text:
+    label: Testimonial
+    type: textarea
+  client:
+    type: text
+    label: Empresa donde trabaja
+  name:
+    type: text
+    label: Nombre del alumno
+  ocupation:
+    type: text
+    label: Ocupación

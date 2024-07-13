@@ -1,0 +1,242 @@
+Title: Diseño de estampados en Photoshop nivel intermedio
+
+----
+
+Cover: - file://jOidb5LZu6MVSphZ
+
+----
+
+Covertext: 
+
+----
+
+Picture1: - file://e6BTlGZeA3eDWNNA
+
+----
+
+Welcome: Al unirte a este curso, estarás adquiriendo habilidades que pueden abrir puertas a oportunidades increíbles. Desde la posibilidad de expandir su portafolio hasta colaboraciones con marcas que buscan diseños frescos y originales.
+
+----
+
+Category: Photoshop
+
+----
+
+Type: Online
+
+----
+
+Level: Intermedio
+
+----
+
+Characteristics:
+
+- 
+  icon:
+    - file://JjwbnzEK6H8Smn9J
+  headline: Aprende a tu propio ritmo
+  text: >
+    Aprende cómodamente desde donde
+    quieras, sin restricciones de horarios.
+    Avanza a tu ritmo, decide cuándo pasar
+    a la siguiente clase.
+- 
+  icon:
+    - file://xQXD7iZ8ryrQRhIz
+  headline: Acceso ilimitado
+  text: >
+    Con acceso ilimitado, puedes revisar las
+    lecciones tantas veces como desees,
+    permitiéndote perfeccionar tus
+    habilidades a tu propio ritmo.
+- 
+  icon:
+    - file://sOIYbYc6GA0K4uvT
+  headline: Comunidad de apoyo
+  text: >
+    En nuestro grupo comparte tu experiencia
+    de aprendizaje con compañer@s de la
+    comunidad que comparten la misma pasión
+    por los estampados.
+
+----
+
+Picture2: - file://e6BTlGZeA3eDWNNA
+
+----
+
+Foryou:
+
+- 
+  reason: >
+    Tienes conocimientos del programa Adobe
+    Photoshop y quieres aumentar tu
+    conocimiento especializadote en textil
+- 
+  reason: >
+    Quieres sumergirte en el fascinante
+    mundo de las tendencias de moda y
+    estilos artísticos.
+- 
+  reason: >
+    Quieres aumentar tus ingresos vendiendo
+    tus estampados a nivel mundial o para tu
+    propia marca
+
+----
+
+Button:
+
+- 
+  text: Comprar
+  link: ""
+
+----
+
+Text: 
+
+----
+
+Program:
+
+- 
+  text: Crear tu propia colección de estampados
+- 
+  text: >
+    Conocerás las principales técnicas de
+    impresión en el ramo textil y como se
+    diseña en cada una
+- 
+  text: >
+    Encontrar inspiración para que te
+    mantengas fiel a tu propio estilo
+- 
+  text: Crear paletas de colores inspiradoras
+- 
+  text: >
+    Crear patrones textiles con distintas
+    tecnicas en photoshop
+- 
+  text: >
+    Crear variantes de color para que los
+    presentes a posibles clientes o para tu
+    propia marca
+- 
+  text: >
+    Crear fichas técnicas para que envíes
+    ¡tú misma tus diseños a producción!
+
+----
+
+Bonus: **Este curso no incluye técnicas de aprendizaje para saber dibujar.*
+
+----
+
+Heading: No necesitas experiencia previa
+
+----
+
+Requirementstext: Te llevaré desde los conceptos básicos hasta convertirte en una diseñadora de estampados experta
+
+----
+
+Testimonialtext: "Recomiendo ampliamente el curso de Diseño de estampados. Las explicaciones son claras. ¡Gracias por compartir tus conocimientos!"
+
+----
+
+User: Lorena
+
+----
+
+Background: - file://B3NUfPj67mksjQSy
+
+----
+
+Video: - file://R2xNvSFyZqICXnIq
+
+----
+
+Videocover: - file://e6BTlGZeA3eDWNNA
+
+----
+
+Costheading: APRENDE A DISEÑAR ESTAMPADOS EN PHOTOSHOP NIVEL INTERMEDIO
+
+----
+
+Price: 97
+
+----
+
+List:
+
+- 
+  text: Lecciones en video con subtítulos
+- 
+  text: Descargables en PDF
+- 
+  text: Disponible también en la app de Hotmart
+- 
+  text: Comunidad de apoyo privada
+- 
+  text: Acceso inmediato y a tu propio ritmo
+- 
+  text: Material de práctica
+
+----
+
+Button2:
+
+- 
+  text: ¡Sí quiero acceder ahora!
+  link: ""
+
+----
+
+Include:
+
+- 
+  icon:
+    - file://HPcKNx30kF3ZKMrz
+  text: Audio en español
+- 
+  icon:
+    - file://U6AFNaYI7yCIcnhQ
+  text: Subtítulos en español
+- 
+  icon:
+    - file://hcTYzm5jjJVALts2
+  text: 'Nivel: Intermedio'
+- 
+  icon:
+    - file://i2kSjuufyU1tmNsV
+  text: Acceso ilimitado
+- 
+  icon:
+    - file://vzR63WTMUgK5Art2
+  text: Online a tu propio ritmo
+- 
+  icon:
+    - file://H6h9062r61jkrHna
+  text: 16 lecciones
+
+----
+
+Heading2: Aprende a diseñar estampados desde cero
+
+----
+
+First: - file://ByOHmgqgeDbnKWp4
+
+----
+
+Featured: - file://XW01YWfBj6TcXb4V
+
+----
+
+Catalog: 
+
+----
+
+Uuid: VPHKjeSd97yyQWu1

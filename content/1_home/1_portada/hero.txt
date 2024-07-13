@@ -1,0 +1,44 @@
+Title: Portada
+
+----
+
+Picture:
+
+- file://EpZGn5oSJhBS6zEW
+- file://tUFD3sYbgj8NDLTV
+
+----
+
+Headline: # ¿Quieres aprender a *diseñar estampados*?
+
+----
+
+Headline2: ¡Bienvenida a nuestra comunidad creativa de Diseño de Estampados !
+
+----
+
+Video: - file://X9FXj1miaYCJiET4
+
+----
+
+Text: ## ¡Inspira, crea y destaca con tus propios stampados!
+
+----
+
+Button:
+
+- 
+  text: Conoce más
+  link: ""
+
+----
+
+Picture3: - file://kj9tCydNpXngxODt
+
+----
+
+Picture2: - file://X9FXj1miaYCJiET4
+
+----
+
+Uuid: ZfFan5cDqaPZKaKS

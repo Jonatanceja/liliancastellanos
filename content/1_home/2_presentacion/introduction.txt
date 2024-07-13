@@ -1,0 +1,40 @@
+Title: Presentación
+
+----
+
+Headline: Diseñadora de estampados
+
+----
+
+Text: He tenido la oportunidad de **trabajar con marcas reconocidas**, lo que me ha permitido aprender y crecer en el campo que más amo y ahora quiero compartirte lo que he aprendido en el camino del diseño.
+
+----
+
+Button:
+
+- 
+  text: Conoce más
+  link: ""
+
+----
+
+Picture: - file://qoKv0SJTijSDe9qa
+
+----
+
+Logos:
+
+- file://O8MT4Qvr8OAdkvyc
+- file://awWsuderRNyaOn2b
+- file://drDBU1SBzZQuzxk6
+- file://Z2ZnH0WdomTZZqKc
+- file://IAJ4xVFkItHTRfWw
+- file://Tnazzh4sRJLgC6My
+- file://kMv7ZalGeMr6fWwH
+- file://qZi38MfsBYlSjcCr
+- file://NyyZrfuFUSeGMEv1
+- file://AFL2kBRFxuDUxXCK
+
+----
+
+Uuid: 2Z0GUQlHkrWyoIht

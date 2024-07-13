@@ -1,0 +1,25 @@
+Title: Testionial 2
+
+----
+
+Text: "Conocimos a Lilian mediante redes sociales, perfecto encontramos colores, figuras y texturas que iban magnífico con nuestra marca Pai Pai. Ella es fuente de inspiración y es un orgullo tener artistas y diseñadores mexicanos tan talentosos como ella."
+
+----
+
+Client: Pai Pai
+
+----
+
+Name: 
+
+----
+
+Ocupation: 
+
+----
+
+Background: - file://FG9TBQEvIWY0WPVL
+
+----
+
+Uuid: O1bZdbyj5hy4ejNN

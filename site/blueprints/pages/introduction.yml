@@ -1,0 +1,34 @@
+title: Presentación
+columns:
+  - width: 1/2
+      fields:
+        headline:
+          type: textarea
+          label: Encabezado
+        text:
+          type: textarea
+          label: Texto 
+        button:
+          type: structure
+          label: Botón
+          fields:
+            text:
+              type: text
+              label: Texto de botón
+            link:
+              type: link
+              label: Enlace de botón
+
+  - width: 1/2
+      fields:
+        picture:
+          type: files
+          label: Imagen
+          max: 2
+          layout: cards
+          size: huge
+          image:
+            cover: true
+        logos:
+          type: files
+          label: Logotipos

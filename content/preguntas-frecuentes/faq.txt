@@ -1,0 +1,93 @@
+Title: Preguntas frecuentes
+
+----
+
+Cover: - file://doGSRxyHArnVRSXa
+
+----
+
+Questions:
+
+- 
+  question: ¿Cuánto tiempo dura el curso?
+  answer: |
+    El curso está diseñado para adaptarse a tu propio ritmo de aprendizaje. Puedes completarlo en unas pocos días o tomarte más tiempo
+    si lo necesitas.
+- 
+  question: >
+    ¿Qué materiales necesitaré para el
+    curso?
+  answer: |
+    Solo necesitarás una computadora con acceso a Adobe Illustrator
+    y/o Photoshop y conexión a internet.
+- 
+  question: >
+    ¿Tendré acceso al contenido una vez
+    finalizado el curso?
+  answer: >
+    Sí, una vez que completes el curso
+    tendrás acceso continuo al contenido
+    para que puedas repasar las lecciones en
+    cualquier momento.
+- 
+  question: ¿Cuándo comienzan?
+  answer: >
+    ¡En el momento que tu decidas! el curso
+    es online, disfruta de acceso ilimitado
+    al curso y al grupo, ¡siempre!
+- 
+  question: ¿Cómo ingreso a ver las clases?
+  answer: >
+    Una vez que hagas la compra recibirás
+    un mail de la plataforma de Hotmart para
+    acceder al curso
+- 
+  question: ¿Para quién son los cursos?
+  answer: >
+    Los cursos están enfocados para amantes
+    de la moda, ilustradoras, estudiantes de
+    diseño de moda o gráfico,
+    profesionales y emprendedoras que deseen
+    crear sus propios diseños.
+- 
+  question: >
+    No tengo tarjeta de crédito ¿Cómo
+    puedo inscribirme?
+  answer: >
+    No te preocupes, nuestro procesador de
+    pagos acepta tarjetas de débito y pagos
+    en efectivo a través de OXXO.
+- 
+  question: >
+    ¿Hay algún tipo de soporte disponible
+    durante el curso?
+  answer: >
+    Sí, tendrás acceso a soporte para
+    resolver cualquier duda o problema que
+    puedas tener durante el curso y al
+    unirte al grupo, te acompañaré en tu
+    proceso en todo momento.
+- 
+  question: >
+    ¿Qué diferencia a este curso de otros
+    disponibles en línea?
+  answer: >
+    Mis cursos se destacan por su enfoque
+    práctico, su atención personalizada y
+    la comunidad de apoyo que lo respalda.
+    Además, está diseñado
+    específicamente para el aprendizaje de
+    diseño de estampados en Adobe.
+- 
+  question: >
+    ¿Cuál es la política de reembolso si
+    no estoy satisfecha con el curso?
+  answer: 'Ofrezco garantía de satisfacción del 100%. Si por alguna razón no estás satisfecha con el curso, contáctanos dentro de un plazo de 7 días y te reembolsaré tu dinero.'
+
+----
+
+Headline: 
+
+----
+
+Uuid: nFm2lgxtjtIZTuhX

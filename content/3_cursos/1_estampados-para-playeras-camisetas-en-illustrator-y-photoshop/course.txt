@@ -1,0 +1,301 @@
+Title: Estampados para Playeras / Camisetas en Illustrator y Photoshop
+
+----
+
+Cover: - file://NK9odNne6jvRnv5f
+
+----
+
+Covertext: ¿Quieres aprender a diseñar *estampados para playeras*?
+
+----
+
+Picture1: - file://7b39RAUcQqBtUoGc
+
+----
+
+Welcome:
+
+🚀 ¿Estás lista para llevar tus habilidades de diseño al siguiente nivel y crear estampados que marquen tendencia en la moda?
+¡Este curso es para ti!
+
+----
+
+Category: Illustrator
+
+----
+
+Type: Online
+
+----
+
+Level: Principiante
+
+----
+
+Characteristics:
+
+- 
+  icon:
+    - file://U8wC38zWZaJRCxqm
+  headline: Aprende a tu propio ritmo
+  text: |
+    Aprende cómodamente desde donde quieras, sin restricciones de horarios.
+    Avanza a tu ritmo, decide cuándo pasar a la siguiente clase.
+- 
+  icon:
+    - file://4f2rN5gNdpJBfRJc
+  headline: Descargables en PDF
+  text: >
+    Toda la inspiración en hojas de trabajo
+    basadas con toda la información del
+    curso
+- 
+  icon:
+    - file://nd4KM8lrlmuhXZHE
+  headline: Comunidad de apoyo
+  text: >
+    En nuestro grupo comparte tu experiencia
+    de aprendizaje con compañer@s de la
+    comunidad que comparten la misma pasión
+    por los estampados.
+- 
+  icon:
+    - file://GKHbmV3KwLO5s6ku
+  headline: Acceso ilimitado
+  text: >
+    Con acceso ilimitado, puedes revisar las
+    lecciones tantas veces como desees,
+    permitiéndote perfeccionar tus
+    habilidades a tu propio ritmo.
+
+----
+
+Picture2: - file://qdn1qLSJCRhvRBKy
+
+----
+
+Foryou:
+
+- 
+  reason: >
+    Tienes conocimientos en Adobe Photoshop/
+    Illustrator y quieres aumentar tu
+    conocimiento especializándote en
+    estampados para playeras o camisetas.
+- 
+  reason: >
+    Quieres sumergirte en el fascinante
+    mundo de las tendencias de moda y
+    estilos artísticos.
+- 
+  reason: >
+    Quieres aumentar tus ingresos trabajando
+    en una empresa de retail o lanzando tu
+    propia marca de playeras/camisetas
+
+----
+
+Button:
+
+- 
+  text: Comprar
+  link: ""
+
+----
+
+Text:
+
+- Diseñado para estudiantes, profesionales, diseñadoras, ilustradoras y emprendedoras con conocimientos básicos en Illustrator y Photoshop que desean llevar sus habilidades al siguiente nivel.
+- Aprendizaje práctico con ejercicios y proyectos que te ayudarán a aplicar lo que aprendes en situaciones reales.
+- Soporte personalizado para garantizar que aproveches al máximo cada lección y resuelvas cualquier duda que surja.
+- Acceso a una comunidad de diseñadoras apasionadas que comparten tus mismos intereses y están listas para inspirarte y ayudarte en tu viaje creativo.
+
+----
+
+Program:
+
+- 
+  text: >
+    Como se crea una colección de
+    estampados.
+- 
+  text: Inspiración y búsqueda de tendencias.
+- 
+  text: >
+    Fuentes de inspiración para diseñar
+    estampados creativos.
+- 
+  text: >
+    Creación de moodboards y colección de
+    imágenes inspiradoras.
+- 
+  text: >
+    Diseño de estampados con mensajes y
+    letras creativas.
+- 
+  text: >
+    Tutoriales con distintas técnicas de
+    impresión aplicados a los diseños
+- 
+  text: >
+    Como crear paletas de colores
+    atractivos.
+- 
+  text: >
+    Técnicas de repetición y escala para
+    estampados.
+- 
+  text: >
+    Cómo visualizar y presentar tus
+    diseños en una prenda.
+- 
+  text: >
+    Realización de fichas técnicas para
+    que envies tu misma a estampar tus
+    playeras/camisetas.
+
+----
+
+Bonus:
+
+### **¡BONUS!** 
+Consideraciones técnicas para la producción en masa de estampados
+**Este curso no incluye técnicas de aprendizaje para saber dibujar.*
+
+----
+
+Heading: ¡No necesitas experiencia previa!
+
+----
+
+Requirementstext: "Te llevaré desde los conceptos básicos hasta convertirte en una diseñadora de estampados experta"
+
+----
+
+Testimonialtext: "Este curso ha superado todas mis expectativas. La forma en que Lilian presenta el contenido es clara y fácil de seguir, aprendí mucho."
+
+----
+
+User: Fátima
+
+----
+
+Background: - file://nq38tdwZAiXgO3Hh
+
+----
+
+Video: - file://FlWM4nquO8gum0lN
+
+----
+
+Videocover: - file://F9e0j4OvAz73Qjvs
+
+----
+
+Costheading: Aprende a diseñar estampados para playeras en ullustrator y Photoshop
+
+----
+
+Price: 97
+
+----
+
+List:
+
+- 
+  text: Lecciones en video con subtítulos
+- 
+  text: Descargables en PDF
+- 
+  text: Disponible también en la app de Hotmart
+- 
+  text: Comunidad de apoyo privada
+- 
+  text: Acceso inmediato y a tu propio ritmo
+- 
+  text: Material de práctica
+
+----
+
+Button2:
+
+- 
+  text: ¡Si quiero acceder ahora!
+  link: ""
+
+----
+
+Include:
+
+- 
+  icon:
+    - file://0Pb4SXbJwGvWAfoC
+  text: Audio en español.
+- 
+  icon:
+    - file://LkxTjY2KCYUBXjzC
+  text: Subtítulos en español.
+- 
+  icon:
+    - file://86EctQz1V1knHEFP
+  text: 'Nivel: Intermedio'
+- 
+  icon:
+    - file://BAyxXx0NynkWUCFI
+  text: Online a tu propio ritmo.
+- 
+  icon:
+    - file://aO8W5pUxce43Mdn3
+  text: 16 lecciones.
+- 
+  icon:
+    - file://8EEtiweVk7UKIZs6
+  text: Acceso Ilimitado
+
+----
+
+Heading2: ¿Sueñas con crear estampados con tu propio estilo?
+
+----
+
+Learn: Aprende  a a dominar las técnicas de impresión más usadas para producir playeras y vive de lo que más te apasiona
+
+----
+
+First: - file://YUZcxmSPleUmB4AO
+
+----
+
+Featured: - file://95bWOitfTH0qpvcM
+
+----
+
+Catalog: 
+
+----
+
+Learntext:
+
+1. Como se crea una colección de estampados.
+2. Inspiración y búsqueda de tendencias.
+3. Fuentes de inspiración para diseñar estampados creativos.
+4. Creación de moodboards y colección de imágenes inspiradoras.
+5. Diseño de estampados con mensajes y letras creativas.
+6. Tutoriales con distintas técnicas de impresión aplicados a los diseños.
+7. Como crear paletas de colores atractivos.
+8. Técnicas de repetición y escala para estampados.
+9. Cómo visualizar y presentar tus diseños en una prenda.
+10. Realización fichas técnicas para que envies tu misma a estampar tus playeras/camisetas.
+
+¡BONUS! :Consideraciones técnicas para la producción en masa de estampados.
+*Este curso no incluye técnicas de aprendizaje para saber  dibujar.
+¡ADEMÁS OBTENDRÁS!
+
+----
+
+Files: 
+
+----
+
+Uuid: JUhJCcxKQYXe2Jac

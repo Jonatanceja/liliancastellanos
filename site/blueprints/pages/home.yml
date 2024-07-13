@@ -1,0 +1,11 @@
+title: Página de Inicio
+preset: pages
+templates:
+  - hero
+  - introduction
+  - section_1
+  - testimonial
+  - section_2
+  - section_3
+  - testimonial_2
+  - portfolio_home

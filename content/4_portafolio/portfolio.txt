@@ -1,0 +1,26 @@
+Title: Portafolio
+
+----
+
+Heading: Conoce mi trabajo más reciente
+
+----
+
+Gallery:
+
+- file://PX3pHuWDDAZWMiVO
+- file://BjMTdiDS5QzNf1Pk
+- file://HKxVsNUbLRvaEiL0
+- file://yskbDkDaT9LB4AX0
+- file://kQZYpjkHGyWUytKX
+- file://uVBchRoo1okfpTXX
+- file://rNSAVEXQIuFmZlXd
+- file://CuNnHAUF6JAl4Iwk
+- file://mievCE7Q8IuvjD62
+- file://1pV0u92slmafbGtm
+- file://U8gF96DOZKFF1CPa
+- file://jvKkcbfnlFnWMxkJ
+
+----
+
+Uuid: kBKwoZyryZuxhVl4

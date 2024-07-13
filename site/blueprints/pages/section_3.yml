@@ -1,0 +1,6 @@
+title: Cursos destacado
+fields:
+  courses:
+    label: Curso destacado
+    type: pages
+    max: 1

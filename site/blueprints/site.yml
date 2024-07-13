@@ -1,3 +1,75 @@
 title: Site
-preset: pages
-unlisted: true
+tabs:
+  content:
+    label: Páginas
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    drafts:
+      extends: sections/articles
+      headline: Borradores
+    unlisted:
+      extends: sections/articles
+      headline: Páginas sin publicar
+    listed:
+      extends: sections/articles
+      headline: Páginas publicadas
+    templates:
+      - home
+      - about
+      - courses
+      - portfolio
+      - faq
+      - text
+      - error
+  
+  contact:
+    label: Contacto
+    icon: email
+    fields:
+      email:
+        label: Correo electrónico
+        type: email
+        width: 1/2
+      whatsapp:
+        icon: whatsapp
+        label: Whatsapp
+        type: text
+        width: 1/2
+      instagram:
+        icon: instagram
+        label: Instagram
+        type: url
+        width: 1/2
+      tiktok:
+        label: TikTok
+        type: url
+        width: 1/2
+      copyright:
+        label: Derechos de autor
+        type: textarea
+        
+  seo:
+    label: SEO
+    icon: search
+    fields: 
+      description:
+        label: Descripción del sitio
+        type: textarea
+      pixel:
+        label: Pixel de Facebook
+        type: textarea
+        width: 1/2
+      analytics:
+        label: Google Analytics
+        type: textarea
+        width: 1/2
+      opengraph:
+        label: Imagen Open Graph
+        type: files
+
+
+

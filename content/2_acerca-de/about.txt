@@ -1,0 +1,34 @@
+Title: Acerca de
+
+----
+
+Cover: - file://YO1tirMPz3C4EJBs
+
+----
+
+Picture: - file://BCFQoz6bim2588oX
+
+----
+
+Bio:
+
+¡Hola! , soy Lilian Castel, me dedico a dar vida a ideas a través de mis ilustraciones y diseños
+Actualmente mi enfoque está en colaborar de manera independiente con marcas, creando estampados únicos y cmpartir mis conocimientos con colegas que deseen incursionar en el mundo de los estampados. Quiero acompañarte compartiendo mis conocimientos para ayudarte a compartir tu talento con el mundo y puedas hacer de tus diseños un éxito.
+
+----
+
+Related:
+
+- 
+  course:
+    - page://NampFg0pBRDFujGY
+  picture:
+    - file://BCFQoz6bim2588oX
+
+----
+
+Text: 
+
+----
+
+Uuid: B66uBGJdM2phktdB

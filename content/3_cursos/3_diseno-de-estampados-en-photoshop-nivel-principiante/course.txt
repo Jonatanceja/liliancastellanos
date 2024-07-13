@@ -1,0 +1,237 @@
+Title: Diseño de estampados en Photoshop nivel principiante
+
+----
+
+Cover: - file://q97sge5zLgz635fv
+
+----
+
+Covertext: Aprende a diseñar estampados en Photoshop
+
+----
+
+Picture1: - file://1v3AXO8sLbUvl4Sa
+
+----
+
+Welcome: Al unirte a este curso, estarás adquiriendo habilidades que pueden abrir puertas a oportunidades increíbles. Desde la posibilidad de expandir su portafolio hasta colaboraciones con marcas que buscan diseños frescos y originales.
+
+----
+
+Category: Photoshop
+
+----
+
+Type: Online
+
+----
+
+Level: Principiante
+
+----
+
+Characteristics:
+
+- 
+  icon:
+    - file://PvZpMoeSkw3CAcg1
+  headline: Aprender a tu propio ritmo
+  text: >
+    Aprende cómodamente desde donde
+    quieras, sin restricciones de horarios.
+    Avanza a tu ritmo, decide cuándo pasar
+    a la siguiente clase.
+- 
+  icon:
+    - file://PvZpMoeSkw3CAcg1
+  headline: Acceso ilimitado
+  text: >
+    Con acceso ilimitado, puedes revisar las
+    lecciones tantas veces como desees,
+    permitiéndote perfeccionar tus
+    habilidades a tu propio ritmo.
+- 
+  icon:
+    - file://pslZ6C6N34kqmWoP
+  headline: Comunidad de Apoyo
+  text: >
+    En nuestro grupo comparte tu experiencia
+    de aprendizaje con compañer@s de la
+    comunidad que comparten la misma pasión
+    por los estampados.
+
+----
+
+Picture2: - file://1v3AXO8sLbUvl4Sa
+
+----
+
+Foryou:
+
+- 
+  reason: Te sientes perdida al usar Photoshop
+- 
+  reason: >
+    Quieres aprender cómo hacer estampados
+    para aplicarlos a diferentes productos
+- 
+  reason: >
+    Quieres encontrar ideas originales para
+    tus diseños
+- 
+  reason: >
+    Quisieras saber cómo tu diseños se
+    aplicarían en productos reales
+
+----
+
+Button:
+
+- 
+  text: Comprar
+  link: ""
+
+----
+
+Text: 
+
+----
+
+Program:
+
+- 
+  text: >
+    Encontrar inspiración para evitar la
+    hoja en blanco
+- 
+  text: >
+    Investigar marcas inspiradoras para
+    aplicar tu propio estilo en tus
+    colecciones
+- 
+  text: Aprender Photoshop desde cero
+- 
+  text: Crear patrones en photoshop
+- 
+  text: >
+    Crear variantes de color y mockups para
+    que los presentes a posibles clientes o
+    para tu propia marca
+- 
+  text: >
+    Preparar tus archivos para que envíes
+    ¡tú misma tus diseños a producción!
+
+----
+
+Bonus: 
+
+----
+
+Heading: No necesitas experiencia previa
+
+----
+
+Requirementstext: Te llevaré desde los conceptos básicos hasta convertirte en una diseñadora de estampados experta
+
+----
+
+Testimonialtext: “Recomendable para comenzar en Photoshop  y en el mundo de estampados.”
+
+----
+
+User: - Mariana / diseñadora
+
+----
+
+Background: - file://0vU3PUBWkl2Uwabn
+
+----
+
+Video: - file://TfmmhCSvFT11zTQo
+
+----
+
+Videocover: - file://1v3AXO8sLbUvl4Sa
+
+----
+
+Costheading: APRENDE A DISEÑAR ESTAMPADOS EN PHOTOSHOP NIVEL PRINCIPIANTES
+
+----
+
+Price: 97
+
+----
+
+List:
+
+- 
+  text: Lecciones en video con subtítulos
+- 
+  text: Descargables en PDF
+- 
+  text: Disponible también en la app de Hotmart
+- 
+  text: Comunidad de apoyo privada
+- 
+  text: Acceso inmediato y a tu propio ritmo
+- 
+  text: Material de práctica
+
+----
+
+Button2:
+
+- 
+  text: ¡Si quiero acceder ahora!
+  link: ""
+
+----
+
+Include:
+
+- 
+  icon:
+    - file://SqO3XTAwV7H5wAun
+  text: Audio en español
+- 
+  icon:
+    - file://Rg0Z1kS6YW2eixOZ
+  text: Subtítulos en español
+- 
+  icon:
+    - file://5BNRgNJ8hVvHno5u
+  text: 'Nivel: Intermedio'
+- 
+  icon:
+    - file://G8LpRxSRMYU7OnT3
+  text: Acceso ilimitado
+- 
+  icon:
+    - file://NSPqfRYl55FZOUkP
+  text: Online a tu propio ritmo
+- 
+  icon:
+    - file://vC8ulaQ8Djsccom6
+  text: 16 lecciones
+
+----
+
+Heading2: ¡Convierte tu pasión en una carrera exitosa!
+
+----
+
+First: - file://WynhcxXK4kimGkDO
+
+----
+
+Featured: - file://RlSeuuiotRTkrH7L
+
+----
+
+Catalog: 
+
+----
+
+Uuid: 3fIged8gq3yBtRQA

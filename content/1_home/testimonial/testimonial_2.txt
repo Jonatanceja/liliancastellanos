@@ -1,0 +1,21 @@
+Title: Testimonial
+
+----
+
+Text: "Recomiendo ampliamente el curso de Diseño de estampados. Las explicaciones son claras. ¡Gracias por compartir tus conocimientos!"
+
+----
+
+Client: 
+
+----
+
+Name: Lorena
+
+----
+
+Ocupation: Diseñadora
+
+----
+
+Uuid: GlE9MGhlaVQ1p5Hu

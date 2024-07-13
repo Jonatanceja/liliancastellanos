@@ -1,0 +1,81 @@
+Title: Cursos
+
+----
+
+Type: Presencial, Online, Webinar
+
+----
+
+Categories: Photoshop, Illustrator
+
+----
+
+Level: Principiante, Intermedio, Avanzado
+
+----
+
+Icons:
+
+- 
+  icon:
+    - file://AC3mGZcjxYv2y2Ca
+  category: Illustrator
+- 
+  icon:
+    - file://a2tELK7AxflR7e5B
+  category: Photoshop
+
+----
+
+Cover: - file://hiC27ZcH0d5h9v4a
+
+----
+
+Picture1: - file://UDQDH4EMC02qgLWP
+
+----
+
+Picture2: - file://lwkPa7Mm5swvkVqL
+
+----
+
+Headline: ¿Quieres aprender a diseñar estampados?
+
+----
+
+Course1: - page://JUhJCcxKQYXe2Jac
+
+----
+
+Course2: - page://JUhJCcxKQYXe2Jac
+
+----
+
+Course3: - page://JUhJCcxKQYXe2Jac
+
+----
+
+Featured: - page://JUhJCcxKQYXe2Jac
+
+----
+
+Testimonialtext:
+
+"Este curso ha superado todas mis expectativas. La forma en que Lilian presenta el contenido es clara y fácil de seguir, aprendí
+mucho"
+
+----
+
+Testimonialuser: Fatima
+
+----
+
+Testimonialbackground: - file://hiC27ZcH0d5h9v4a
+
+----
+
+Text: 
+
+----
+
+Uuid: NampFg0pBRDFujGY

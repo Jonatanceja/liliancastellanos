@@ -1,0 +1,268 @@
+title: Curso
+tabs:
+  content:
+    label: Contenido
+    icon: text
+    sections:
+      welcome:
+        type: fields        
+        fields:
+          headline:
+            label: Bienvenida al curso
+            type: headline
+          cover:
+            type: files
+            label: Imagen inicio
+            layout: cards
+            size: huge
+            width: 1/2
+            max: 1
+            image:
+              cover: true
+          coverText:
+            type: textarea
+            label: Texto de la portada
+            width: 1/2
+          picture1: 
+            type: files
+            label: Imagen 1
+            width: 1/2
+            layout: cards
+            size: huge
+            max: 1
+            image:
+              cover: true
+          welcome:
+            type: textarea
+            label: Texto de bienvenida
+            width: 1/2
+
+      characteristics:
+        type: fields
+        fields:
+          specs: 
+            type: headline
+            label: Especificaciones del curso
+          category:
+            label: Categoría
+            type: select
+            options: query
+            width: 1/2
+            query: page.parent.categories.split
+          type:
+            type: select
+            label: Tipo de curso
+            options: query
+            width: 1/2
+            query: page.parent.type.split
+          level:
+            type: select
+            label: Nivel
+            options: query
+            width: 1/2
+            query: page.parent.level.split
+          characteristics:
+            type: structure
+            label: Características
+            fields:
+              icon:
+                type: files
+                label: Icono
+                layout: cards
+                size: huge
+                max: 1
+                image:
+                  cover: true
+              headline:
+                type: textarea
+                label: Encabezado
+              text:
+                type: textarea
+                label: Texto
+
+      if:
+        type: fields
+        fields:
+          if: 
+            type: headline
+            label: Este curso es para ti si
+          picture2:
+            type: files
+            label: Imagen 2
+            layout: cards
+            size: huge
+            width: 1/2
+            max: 1
+            image:
+              cover: true
+          forYou:
+            type: structure
+            label: Razones para estudiar este curso
+            width: 1/2
+            fields:
+              reason:
+                type: textarea
+                label: Razón
+          button:
+            type: structure
+            label: Botón
+            fields:
+              text: 
+                type: text
+                label: Texto de botón
+              link:
+                type: link
+                label: Enlace de botón
+          text:
+            type: textarea
+            label: Texto de la sección
+      
+      program:
+        type: fields
+        fields:
+          program:
+            type: structure
+            label: Lo que aprenderás
+            fields:
+              text:
+                type: textarea
+                label: Texto
+          bonus:
+            type: textarea
+            label: Texto extra
+
+      requirements:
+        type: fields
+        fields:
+          requirements:
+            type: headline
+            label: Requisitos
+          heading:
+            type: text
+            label: Encabezado
+          requirementsText:
+            type: textarea
+            label: Texto de la sección
+          
+      
+      testimonial:
+        type: fields
+        fields:
+          testimonial:
+            type: headline
+            label: Testimonios
+          testimonialText:
+            type: textarea
+            label: Texto de la sección
+          user:
+            type: text
+            label: Usuario
+          background:
+            type: files
+            label: Imagen de fondo
+            layout: cards
+            size: huge
+            max: 1
+            image:
+              cover: true
+      
+      cost:
+        type: fields
+        fields:
+          cost:
+            type: headline
+            label: Costo del curso
+          video:
+            type: files
+            label: Video
+            width: 1/2
+          videoCover:
+            type: files
+            label: Imagen de fondo
+            layout: cards
+            width: 1/2
+            size: huge
+            max: 1
+            image:
+              cover: true
+          costHeading:
+            type: text
+            label: Encabezado
+            width: 1/2
+          price:
+            type: number
+            label: Precio
+            width: 1/2
+          list:
+            type: structure
+            label: Lista
+            fields:
+              text:
+                type: textarea
+                label: Texto
+          button2:
+            type: structure
+            label: Botón
+            fields:
+              text:
+                type: text
+                label: Texto de botón
+              link:
+                type: link
+                label: Enlace de botón
+          include:
+            type: structure
+            label: Incluye
+            fields:
+              icon:
+                type: files
+                label: Icono
+                layout: cards
+                size: huge
+                max: 1
+                image:
+                  cover: true
+              text:
+                type: textarea
+                label: Texto
+            
+  files:
+    label: Archivos
+    fields:
+      heading2:
+        type: text
+        label: Encabezado
+      learn:
+        type: textarea
+        label: Que aprenderas
+      first:
+        type: files
+        label: Imagen de portada
+        layout: cards
+        size: huge
+        width: 1/3
+        max: 1
+        image:
+          cover: true
+      featured:
+        type: files
+        label: Imagen destacada
+        max: 1
+        layout: cards
+        size: huge
+        width: 1/3
+        image:
+          cover: true
+      catalog:
+        type: files
+        label: Catálogo
+        max: 1
+        layout: cards
+        size: huge
+        width: 1/3
+        image:
+          cover: true
+      
+
+      
+          

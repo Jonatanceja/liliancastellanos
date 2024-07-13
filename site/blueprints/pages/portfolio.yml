@@ -1,0 +1,11 @@
+title: Portafolio
+fields:
+  heading:
+    label: Encabezado
+    type: text
+  gallery:
+    type: files
+    label: Imagen
+    layout: cards
+    image:
+      cover: true

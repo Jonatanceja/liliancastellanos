@@ -1,0 +1,29 @@
+Title: Cursos Destacados
+
+----
+
+Headline: ¡Sé parte de esta emocionante aventura y *descubre el impacto de tus diseños* en el mundo! 👗🌟💫
+
+----
+
+Course1: - page://3fIged8gq3yBtRQA
+
+----
+
+Featured: - page://VPHKjeSd97yyQWu1
+
+----
+
+Course3: - page://JUhJCcxKQYXe2Jac
+
+----
+
+Cursos:
+
+- page://JUhJCcxKQYXe2Jac
+- page://VPHKjeSd97yyQWu1
+- page://3fIged8gq3yBtRQA
+
+----
+
+Uuid: 6M2dmbd4JdtBejn5

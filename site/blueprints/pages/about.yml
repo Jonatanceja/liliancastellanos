@@ -1,0 +1,33 @@
+title: Acerca de 
+fields:
+  cover:
+    type: files
+    label: Imagen de fondo
+    layout: cards
+    size: huge
+    width: 1/2
+    max: 1
+  picture:
+    type: files
+    label: Imagen
+    max: 1
+    layout: cards
+    width: 1/2
+    size: huge
+  bio:
+    type: textarea
+    label: Bio
+  related:
+    type: structure
+    label: Cursos relacionados
+    fields:
+      course:
+        type: pages
+        label: Páginas
+      picture:
+        type: files
+        label: Imagen
+        max: 1
+        layout: cards
+        size: huge
+        width: 1/2

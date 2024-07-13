@@ -1,0 +1,5 @@
+title: Páginas de texto
+fields:
+  text:
+    type: textarea
+    label: Texto

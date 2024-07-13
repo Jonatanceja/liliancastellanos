@@ -1,0 +1,4 @@
+<div class="flex items-center justify-center relative w-auto">
+    <button class="bg-blue-100 text-blue-800 px-5 py-2 font-semibold uppercase tracking-wide relative z-10 transition transform hover:-translate-y-2 duration-300 hover:bg-blue-200 text-sm">{{ $slot }} <span class="ml-2 text-base transform translate-y-1"><i class="lni lni-arrow-right"></i></span></button>
+    <div class="bg-blue-800 text-blue-800 px-5 py-2 font-semibold uppercase tracking-wide absolute top-0 mx-auto z-0 text-sm border border-blue-800">{{ $slot }} <span class="ml-2"><i class="lni lni-arrow-right text-base"></i></span></div>
+</div>

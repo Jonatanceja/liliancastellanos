@@ -1,0 +1,20 @@
+title: Preguntas frecuentes
+fields:
+  cover:
+    type: files
+    label: Imagen de fondo
+    layout: cards
+    size: huge
+    max: 1
+    image:
+      cover: true
+  questions:
+    type: structure
+    label: Preguntas
+    fields:
+      question:
+        type: textarea
+        label: Pregunta
+      answer:
+        type: textarea
+        label: Respuesta

@@ -1,0 +1,13 @@
+title: Proyectp
+fields:
+  text:
+    type: textarea
+    label: Texto
+  gallery:
+    type: files
+    label: Imagen
+    layout: cards
+    size: huge
+    max: 1
+    image:
+      cover: true

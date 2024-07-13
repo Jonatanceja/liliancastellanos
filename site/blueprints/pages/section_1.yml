@@ -1,0 +1,17 @@
+title: Cursos destacados
+fields:
+  headline:
+    type: textarea
+    label: Encabezado
+  course1:
+    label: Curso destacado 1
+    type: pages
+    width: 1/3
+  featured:
+    label: Curso destacado
+    type: pages
+    width: 1/3
+  course3:
+    label: Curso destacado 3
+    type: pages
+    width: 1/3

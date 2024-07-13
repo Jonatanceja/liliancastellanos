@@ -1,0 +1,11 @@
+title: Archivos
+fields:
+  alt:
+    label: Texto alternativo
+    type: text
+  caption:
+    label: Subtexto
+    type: text
+  link:
+    label: Enlace
+    type: url

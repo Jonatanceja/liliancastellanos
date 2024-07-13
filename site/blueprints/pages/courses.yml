@@ -1,0 +1,125 @@
+title: Cursos
+
+tabs:
+
+  courses:
+    label: Cursos
+    icon: text
+    preset: pages
+    options:
+      url: false
+      status: false
+      delete: false
+    drafts:
+      extends: sections/courses
+      headline: Borradores
+    unlisted:
+      extends: sections/courses
+      headline: Cursos sin publicar
+    listed:
+      extends: sections/courses
+      headline: Cursos publicados
+    templates:
+      - course
+
+  categories:
+    label: Categorías
+    icon: tag
+    fields:
+      type:
+        type: multiselect
+        label: Tipo de curso
+        options:
+          - Presencial
+          - Online 
+          - Webinar
+      categories:
+        type: multiselect
+        label: Categoría
+        options:
+          - Photoshop
+          - Illustrator
+      level:
+        type: multiselect
+        label: Nivel
+        options:
+          - Principiante
+          - Intermedio
+          - Avanzado
+      icons:
+        label: Iconos
+        type: structure
+        fields:
+          icon:
+            type: files
+            label: Icono
+          category:
+            type: select
+            options: query
+            query: page.categories.split
+  
+  content:
+    label: Contenido
+    icon: text
+    fields:
+      cover:
+        type: files
+        label: Imagen de fondo
+        layout: cards
+        size: huge
+        max: 1
+        image:
+          cover: true
+      picture1:
+        type: files
+        label: Imagen 1
+        layout: cards
+        size: huge
+        max: 1
+        width: 1/2
+        image:
+          cover: true
+      picture2:
+        type: files
+        label: Imagen 2
+        layout: cards
+        size: huge
+        max: 1
+        width: 1/2
+        image:
+          cover: true
+      headline:
+        type: textarea
+        label: Encabezado
+      course1:
+        type: pages
+        label: Curso 1
+        width: 1/3
+      course2:
+        type: pages
+        label: Curso 2
+        width: 1/3
+      course3:
+        type: pages
+        label: Curso 3
+        width: 1/3
+      featured:
+        type: pages
+        label: Cursos destacados
+      testimonial:
+        type: headline
+        label: Testimonios
+      testimonialText:
+        type: textarea
+        label: Texto de la sección
+      testimonialUser:
+        type: text
+        label: Usuario
+      testimonialBackground:
+        type: files
+        label: Imagen de fondo
+        layout: cards
+        size: huge
+        max: 1
+        image:
+          cover: true

@@ -1,0 +1,25 @@
+title: Testimonial
+columns:
+  - width: 1/2
+    fields:
+      text:
+        label: Testimonial
+        type: textarea
+      client:
+        type: text
+        label: Empresa donde trabaja
+      name:
+        type: text
+        label: Nombre del alumno
+      ocupation:
+        type: text
+        label: Ocupación
+      
+
+  - width: 1/2
+    fields:
+      background:
+        type: files
+        label: Imagen de fondo
+        layout: cards
+        size: huge
